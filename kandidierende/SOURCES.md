@@ -107,8 +107,8 @@
 
 * AfD **-**
 * CDU **-**
-* FDP **-**
-* Grüne **-**
+* FDP [Liste](https://www.fdp-saar.de/2017/05/13/bundestagswahl-aufstellung-der-kandidaten/)
+* Grüne [Liste](http://gruene-saar.de/landesliste-fur-die-bundestagswahl-2013/)
 * Linke [Liste](http://www.dielinke-saar.de/nc/politik/aktuelles/#c24499)
 * SPD [Liste](https://www.spd-saar.de/aktuelles/1103-2/)
 
