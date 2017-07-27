@@ -145,5 +145,5 @@
 * CDU [Liste](http://www.cdu-thueringen.de/inhalte/2/aktuelles/161650/landesliste-der-cdu-thueringen-steht-fest/index.html) [Direkt](http://www.cdu-thueringen.de/inhalte/2/aktuelles/159160/cdu-direktkandidaten-fuer-die-bundestagswahl-stehen-fest/index.html)
 * FDP [Liste](http://www.fdp-thueringen.de/news/9248-thomas_kemmerich_fuehrt_die_kandidatenliste_der_thueringer_fdp_an.html)
 * Grüne [Beides](https://gruene-thueringen.de/pressemitteilung/bundestagswahl-wahlkreis-und-listenkandidatinnen-von-b%C3%BCndnis-90die-gr%C3%BCnen)
-* Linke [Liste] (https://wahl2017.die-linke-thueringen.de/#kandidatinnen)
+* Linke [Liste](https://wahl2017.die-linke-thueringen.de/#kandidatinnen)
 * SPD [Liste](http://www.spd-thueringen.de/meldungen/spd-legt-landesliste-fuer-die-bundestagswahl-fest/)
