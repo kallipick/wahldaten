@@ -70,7 +70,7 @@
 ## Mecklenburg-Vorpommern
 
 * AfD [Liste](http://www.afd-mv.de/afd-mecklenburg-vorpommern-waehlt-bundestagsliste/) [Direkt](http://www.afd-mv.de/btw-2017/unsere-direktkandidaten-2/)
-* CDU [Liste](https://www.cdu-mecklenburg-vorpommern.de/aktuelles/news/details/news/landesliste-zur-bundestagswahl-am-24-september-2017-beschlossen/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=5c16fbc684043096641f37eb4979d982)
+* CDU [Liste](https://www.cdu-mecklenburg-vorpommern.de/aktuelles/news/details/news/landesliste-zur-bundestagswahl-am-24-september-2017-beschlossen/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=5c16fbc684043096641f37eb4979d982) [Direkt](https://www.cdu-mecklenburg-vorpommern.de/bundestagswahl-2017/bundestagswahlkreise/)
 * FDP [Liste](https://www.fdp-mv.de/wahl-2017/listenkandidaten-btw-17/) [Direkt](https://www.fdp-mv.de/wahl-2017/direktkandidaten-btw-17/)
 * Grüne [Liste](https://gruene-mv.de/start/news-detail/article/buendnisgruene_waehlen_claudia_mueller_als_spitzenkandidatin/)
 * Linke [Liste](https://www.originalsozial.de/wahl_2017/bundestagswahl_2017/landesliste/) [Direkt](https://www.originalsozial.de/wahl_2017/bundestagswahl_2017/direktwahlkreise/)
@@ -145,5 +145,5 @@
 * CDU [Liste](http://www.cdu-thueringen.de/inhalte/2/aktuelles/161650/landesliste-der-cdu-thueringen-steht-fest/index.html) [Direkt](http://www.cdu-thueringen.de/inhalte/2/aktuelles/159160/cdu-direktkandidaten-fuer-die-bundestagswahl-stehen-fest/index.html)
 * FDP [Liste](http://www.fdp-thueringen.de/news/9248-thomas_kemmerich_fuehrt_die_kandidatenliste_der_thueringer_fdp_an.html)
 * Grüne [Beides](https://gruene-thueringen.de/pressemitteilung/bundestagswahl-wahlkreis-und-listenkandidatinnen-von-b%C3%BCndnis-90die-gr%C3%BCnen)
-* Linke **-**
+* Linke [Liste] (https://wahl2017.die-linke-thueringen.de/#kandidatinnen)
 * SPD [Liste](http://www.spd-thueringen.de/meldungen/spd-legt-landesliste-fuer-die-bundestagswahl-fest/)
